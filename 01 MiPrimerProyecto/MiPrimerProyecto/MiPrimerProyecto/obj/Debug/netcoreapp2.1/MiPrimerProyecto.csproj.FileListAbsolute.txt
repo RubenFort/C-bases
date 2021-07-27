@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp2.1\MiPrimerProyecto.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp2.1\MiPrimerProyecto.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp2.1\MiPrimerProyecto.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp2.1\MiPrimerProyecto.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp2.1\MiPrimerProyecto.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp2.1\MiPrimerProyecto.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp2.1\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp2.1\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp2.1\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp2.1\MiPrimerProyecto.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\01 MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp2.1\MiPrimerProyecto.pdb

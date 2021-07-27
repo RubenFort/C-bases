@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\bin\Debug\netcoreapp2.1\02Coordenadas.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\bin\Debug\netcoreapp2.1\02Coordenadas.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\bin\Debug\netcoreapp2.1\02Coordenadas.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\bin\Debug\netcoreapp2.1\02Coordenadas.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\bin\Debug\netcoreapp2.1\02Coordenadas.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\obj\Debug\netcoreapp2.1\02Coordenadas.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\obj\Debug\netcoreapp2.1\02Coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\obj\Debug\netcoreapp2.1\02Coordenadas.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\obj\Debug\netcoreapp2.1\02Coordenadas.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\obj\Debug\netcoreapp2.1\02Coordenadas.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\02Coordenadas\02Coordenadas\obj\Debug\netcoreapp2.1\02Coordenadas.pdb
