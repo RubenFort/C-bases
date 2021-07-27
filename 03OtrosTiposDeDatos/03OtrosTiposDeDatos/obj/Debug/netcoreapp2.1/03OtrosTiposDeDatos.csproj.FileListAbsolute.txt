@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\bin\Debug\netcoreapp2.1\03OtrosTiposDeDatos.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\bin\Debug\netcoreapp2.1\03OtrosTiposDeDatos.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\bin\Debug\netcoreapp2.1\03OtrosTiposDeDatos.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\bin\Debug\netcoreapp2.1\03OtrosTiposDeDatos.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\bin\Debug\netcoreapp2.1\03OtrosTiposDeDatos.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\obj\Debug\netcoreapp2.1\03OtrosTiposDeDatos.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\obj\Debug\netcoreapp2.1\03OtrosTiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\obj\Debug\netcoreapp2.1\03OtrosTiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\obj\Debug\netcoreapp2.1\03OtrosTiposDeDatos.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\obj\Debug\netcoreapp2.1\03OtrosTiposDeDatos.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\03OtrosTiposDeDatos\03OtrosTiposDeDatos\obj\Debug\netcoreapp2.1\03OtrosTiposDeDatos.pdb
