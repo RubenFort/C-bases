@@ -4,6 +4,7 @@ namespace _01Delegados
 {
     // 1 - Declaro delegado
     public delegate float CalcularTotal(float subtotal);
+    public delegate void CalcularTotalRef(ref float subTotal);
 
     class VueloNacional
     {
@@ -83,6 +84,14 @@ namespace _01Delegados
                 return total + ImpuestoFederalSeguridad;
             return total;
         }
+
+        public void CalcularTotalConImpuestos(ref float importe)
+        {
+            float total = importe + (importe * Iva) + Tua;
+            if (Destino == 559)
+                total += ImpuestoFederalSeguridad;
+            importe = total;
+        }
     }
 
     class Program
@@ -120,6 +129,11 @@ namespace _01Delegados
             totalB += CalcularTotalSeguro;
             Console.WriteLine("Importe del seguro del vuelo internacional sencillo {0}", totalB(vuelointernac)); // El delegado usa el último método agregado, en este caso CalcularTotalSeguro
 
+            CalcularTotalRef tr = vueloInter.CalcularTotalConImpuestos;
+            tr += CalcularTotalConSeguroRef;
+            tr(ref vuelointernac );
+            Console.WriteLine("Importe del vuelo internacional sencillo con seguro {0}", vuelointernac);
+
             #endregion
 
             Console.ReadKey();
@@ -133,6 +147,12 @@ namespace _01Delegados
         static float CalcularTotalSeguro(float importeTotal)
         {
             return importeTotal * 0.1f;
+        }
+
+        static void CalcularTotalConSeguroRef (ref float total)
+        {
+            float porcentajeSeguro = 0.1f;
+            total += total * porcentajeSeguro;
         }
     }
 }
