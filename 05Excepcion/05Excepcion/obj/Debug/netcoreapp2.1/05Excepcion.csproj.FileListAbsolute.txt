@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\bin\Debug\netcoreapp2.1\05Excepcion.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\bin\Debug\netcoreapp2.1\05Excepcion.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\bin\Debug\netcoreapp2.1\05Excepcion.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\bin\Debug\netcoreapp2.1\05Excepcion.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\bin\Debug\netcoreapp2.1\05Excepcion.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\obj\Debug\netcoreapp2.1\05Excepcion.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\obj\Debug\netcoreapp2.1\05Excepcion.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\obj\Debug\netcoreapp2.1\05Excepcion.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\obj\Debug\netcoreapp2.1\05Excepcion.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\obj\Debug\netcoreapp2.1\05Excepcion.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\05Excepcion\05Excepcion\obj\Debug\netcoreapp2.1\05Excepcion.pdb
