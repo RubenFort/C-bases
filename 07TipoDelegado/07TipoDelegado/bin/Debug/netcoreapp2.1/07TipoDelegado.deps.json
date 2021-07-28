@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "01Delegados/1.0.0": {
+      "07TipoDelegado/1.0.0": {
         "runtime": {
-          "01Delegados.dll": {}
+          "07TipoDelegado.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "01Delegados/1.0.0": {
+    "07TipoDelegado/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\bin\Debug\netcoreapp2.1\07TipoDelegado.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\bin\Debug\netcoreapp2.1\07TipoDelegado.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\bin\Debug\netcoreapp2.1\07TipoDelegado.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\bin\Debug\netcoreapp2.1\07TipoDelegado.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\bin\Debug\netcoreapp2.1\07TipoDelegado.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\obj\Debug\netcoreapp2.1\07TipoDelegado.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\obj\Debug\netcoreapp2.1\07TipoDelegado.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\obj\Debug\netcoreapp2.1\07TipoDelegado.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\obj\Debug\netcoreapp2.1\07TipoDelegado.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\obj\Debug\netcoreapp2.1\07TipoDelegado.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\07TipoDelegado\07TipoDelegado\obj\Debug\netcoreapp2.1\07TipoDelegado.pdb

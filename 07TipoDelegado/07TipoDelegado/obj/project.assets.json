@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Crowley\\Desktop\\Cursos\\Linkedin\\C# esencial\\CodigoPropio\\07Delegados\\01Delegados\\01Delegados.csproj",
-      "projectName": "01Delegados",
-      "projectPath": "C:\\Users\\Crowley\\Desktop\\Cursos\\Linkedin\\C# esencial\\CodigoPropio\\07Delegados\\01Delegados\\01Delegados.csproj",
+      "projectUniqueName": "C:\\Users\\Crowley\\Desktop\\Cursos\\Linkedin\\C# esencial\\CodigoPropio\\07TipoDelegado\\07TipoDelegado\\07TipoDelegado.csproj",
+      "projectName": "07TipoDelegado",
+      "projectPath": "C:\\Users\\Crowley\\Desktop\\Cursos\\Linkedin\\C# esencial\\CodigoPropio\\07TipoDelegado\\07TipoDelegado\\07TipoDelegado.csproj",
       "packagesPath": "C:\\Users\\Crowley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Crowley\\Desktop\\Cursos\\Linkedin\\C# esencial\\CodigoPropio\\07Delegados\\01Delegados\\obj\\",
+      "outputPath": "C:\\Users\\Crowley\\Desktop\\Cursos\\Linkedin\\C# esencial\\CodigoPropio\\07TipoDelegado\\07TipoDelegado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
