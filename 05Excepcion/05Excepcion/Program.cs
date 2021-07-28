@@ -17,7 +17,7 @@ namespace _05Excepcion
             }
             catch (FormatException e)
             {
-                if (e.Message != null)
+                if (e.Message == null)
                 {
                     throw;
                 }
