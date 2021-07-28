@@ -102,9 +102,21 @@ namespace _01Delegados
 
             VueloInternacional vueloInter = new VueloInternacional(false, 559);
             total = vueloInter.CalcularMontoTotal;
-            float t = total(precio);
-            Console.WriteLine("Importe del vuelo nacional {0}", t);
+            float vuelointernac = 9800f;
+            float t = total(vuelointernac);
+            Console.WriteLine("Importe del vuelo internacional sencillo {0}", t);
+            
+            #region parametros
+            float totalAdultoMayor = CalcularConDescuentoAdultoMayor(t, total);
+            Console.WriteLine("Importe del vuelo internacional sencillo con descuento adulto mayor {0}", totalAdultoMayor);
+            #endregion
+
             Console.ReadKey();
+        }
+        static float CalcularConDescuentoAdultoMayor(float importe, CalcularTotal total)
+        {
+            float subTotal = total(importe);
+            return subTotal - (0.35f * subTotal);
         }
     }
 }
