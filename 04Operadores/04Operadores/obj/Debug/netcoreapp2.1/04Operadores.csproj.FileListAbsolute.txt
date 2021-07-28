@@ -1,0 +1,10 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\bin\Debug\netcoreapp2.1\04Operadores.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\bin\Debug\netcoreapp2.1\04Operadores.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\bin\Debug\netcoreapp2.1\04Operadores.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\bin\Debug\netcoreapp2.1\04Operadores.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\bin\Debug\netcoreapp2.1\04Operadores.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\obj\Debug\netcoreapp2.1\04Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\obj\Debug\netcoreapp2.1\04Operadores.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\obj\Debug\netcoreapp2.1\04Operadores.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\obj\Debug\netcoreapp2.1\04Operadores.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\04Operadores\04Operadores\obj\Debug\netcoreapp2.1\04Operadores.pdb

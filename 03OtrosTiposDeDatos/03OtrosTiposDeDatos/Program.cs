@@ -57,7 +57,7 @@ namespace _03OtrosTiposDeDatos
             (string Nombre, string Apellido) proveedorB = (Nombre: "Lucia", Apellido: "Rana");
             proveedorB.Nombre = "Maria";
             Console.WriteLine($"Provider: {proveedorB.Nombre}, {proveedorB.Apellido}");
-           // Console.ReadKey();
+            Console.ReadKey();
             #endregion
         }
     }
