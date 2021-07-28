@@ -5,6 +5,7 @@ namespace _01Delegados
     // 1 - Declaro delegado
     public delegate float CalcularTotal(float subtotal);
     public delegate void CalcularTotalRef(ref float subTotal);
+    public delegate void ImprimirMensaje(string msj);
 
     class VueloNacional
     {
@@ -133,6 +134,16 @@ namespace _01Delegados
             tr += CalcularTotalConSeguroRef;
             tr(ref vuelointernac );
             Console.WriteLine("Importe del vuelo internacional sencillo con seguro {0}", vuelointernac);
+
+            #endregion
+
+            #region anónimo
+
+            ImprimirMensaje im = delegate (string mensaje)
+            {
+                Console.WriteLine("Mensaje {0}", mensaje);
+            };
+            im("Delegado anonimo");
 
             #endregion
 
