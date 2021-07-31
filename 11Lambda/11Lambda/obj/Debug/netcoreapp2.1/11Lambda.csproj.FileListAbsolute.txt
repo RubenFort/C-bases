@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\bin\Debug\netcoreapp2.1\11Lambda.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\bin\Debug\netcoreapp2.1\11Lambda.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\bin\Debug\netcoreapp2.1\11Lambda.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\bin\Debug\netcoreapp2.1\11Lambda.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\bin\Debug\netcoreapp2.1\11Lambda.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\obj\Debug\netcoreapp2.1\11Lambda.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\obj\Debug\netcoreapp2.1\11Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\obj\Debug\netcoreapp2.1\11Lambda.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\obj\Debug\netcoreapp2.1\11Lambda.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\obj\Debug\netcoreapp2.1\11Lambda.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\11Lambda\11Lambda\obj\Debug\netcoreapp2.1\11Lambda.pdb

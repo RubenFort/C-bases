@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\bin\Debug\netcoreapp2.1\10Tuplas.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\bin\Debug\netcoreapp2.1\10Tuplas.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\bin\Debug\netcoreapp2.1\10Tuplas.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\bin\Debug\netcoreapp2.1\10Tuplas.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\bin\Debug\netcoreapp2.1\10Tuplas.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\obj\Debug\netcoreapp2.1\10Tuplas.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\obj\Debug\netcoreapp2.1\10Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\obj\Debug\netcoreapp2.1\10Tuplas.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\obj\Debug\netcoreapp2.1\10Tuplas.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\obj\Debug\netcoreapp2.1\10Tuplas.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\10Tuplas\10Tuplas\obj\Debug\netcoreapp2.1\10Tuplas.pdb
