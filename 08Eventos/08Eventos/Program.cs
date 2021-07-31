@@ -32,12 +32,13 @@ namespace _08Eventos
 
             FormaDePago fm = new FormaDePago();
 
-    //*********************************************************************************************************
-    // 4 - Registro el evento *********************************************************************************
+            //*********************************************************************************************************
+            // 4 - Registro el evento *********************************************************************************
             fm.CambioFormaPago += fm_seleccionFormaPago;
-
-            fm.Tipo = (TipoPago)Enum.Parse(typeof(TipoPago), tipoPago);
-
+            fm.CambioFormaPago += fm_continuarProcesoPago;
+            fm.Tipo = (TipoPago)Enum.Parse(typeof(TipoPago), tipoPago); // Accion - Al haber agregado los métodos "fm_seleccionFormaPago" 
+                                                                        // y "fm_continuarProcesoPago" el evento "CambioFormaPago", al Settear
+                                                                        // Tipo se ejecutan los 2 eventos de forma síncrona (por orden, uno al acabar el otro).
             Console.ReadKey();
         }
         static void fm_seleccionFormaPago(TipoPago tipo, TipoAlerta tipoAlerta)
@@ -48,14 +49,30 @@ namespace _08Eventos
                 Console.WriteLine("Forma de pago seleccionada: {0}", tipo.ToString()); 
         }
         
+        static void fm_continuarProcesoPago(TipoPago tipo, TipoAlerta tipoAlerta)
+        {
+            bool status = false;
+
+            if (tipoAlerta.Equals(TipoAlerta.Exito))
+            {
+                Console.WriteLine("Continuando con el proceso de pago por ", tipo.ToString());
+                Console.WriteLine("Presione x para continuar..", tipo.ToString());
+                string tipoPago = Console.ReadLine();
+                if (tipoPago == "x")
+                {
+                    status = true;
+                }
+                Console.WriteLine("Confirmacion recibida, estatus de la operacion {0}", status ? "confirmada" : "cancelada");
+            }
+        }
     }
 
     public class FormaDePago // event broadcaster/emisora
     {
         private TipoPago tipo;
 
-    //*********************************************************************************************************
-    // 2 - Declaro evento como miembro del delegado ***********************************************************
+        //*********************************************************************************************************
+        // 2 - Declaro evento como miembro del delegado ***********************************************************
         public event CambioFormaPagoHandler CambioFormaPago;
 
         public TipoPago Tipo
@@ -75,8 +92,8 @@ namespace _08Eventos
                     tipoAlerta = TipoAlerta.Exito;
                 }
 
-    //*********************************************************************************************************
-    // 3 - Lanzar evento cuando se asigna un valor a tipo, es decir en set ************************************
+                //*********************************************************************************************************
+                // 3 - Lanzar evento cuando se asigna un valor a tipo, es decir en set ************************************
                 CambioFormaPago(tipo, tipoAlerta);
             }
         }
