@@ -8,14 +8,15 @@ namespace _11Lambda
     {
         static void Main(string[] args)
         {
-            Operacion op = (a, b) => a * b;
+            #region lambda
+            Operacion op = (c, b) => c * b;
             var resultado = op(2, 3);
             Console.WriteLine($"Total: {resultado}");
 
-            Operacion potencia = (a, b) =>
+            Operacion potencia = (c, b) =>
             {
-                Console.WriteLine($"{a} elevado a la {b} potencia");
-                return (int)Math.Pow(a, b);
+                Console.WriteLine($"{c} elevado a la {b} potencia");
+                return (int)Math.Pow(c, b);
             };
 
             int n1 = 2;
@@ -23,7 +24,7 @@ namespace _11Lambda
             int resultadoPot = potencia(n1, n2);
             Console.WriteLine($"Total: {resultadoPot}");
 
-            Func<int, int, int> pot = (x, y) => (int)Math.Pow(x, y);
+            Func<int, int, int> pot = (v, y) => (int)Math.Pow(v, y);
             Console.WriteLine($"Total: {pot(5, 5)}");
 
             //Func(recibe, recibe, return)
@@ -31,6 +32,26 @@ namespace _11Lambda
             string cadA = "Noemi";
             string cadB = "noemi";
             Console.WriteLine($"Son iguales? {igual(cadA, cadB)}");
+            #endregion
+
+            #region variables e iteraciones
+            int x = 2;
+            int a = 5;
+            Func<int, int> suma = s => x + a;
+            a = 10;
+            Console.WriteLine($"Suma: {suma(2)}");
+
+
+            Func<int, int, int> potB = (z, y) => (int)Math.Pow(z, y);
+            int baseP = 5;
+            for (int i = 1; i <= 3; i++)
+            {
+                int res = potB(baseP, i);
+                Console.WriteLine($"{baseP} elevado a la {i} potencia = {res}");
+            }
+
+            Console.ReadKey();
+            #endregion
 
             Console.ReadKey();
         }
