@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\bin\Debug\netcoreapp2.1\09EventHandlersEn.NET.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\bin\Debug\netcoreapp2.1\09EventHandlersEn.NET.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\bin\Debug\netcoreapp2.1\09EventHandlersEn.NET.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\bin\Debug\netcoreapp2.1\09EventHandlersEn.NET.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\bin\Debug\netcoreapp2.1\09EventHandlersEn.NET.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\obj\Debug\netcoreapp2.1\09EventHandlersEn.NET.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\obj\Debug\netcoreapp2.1\09EventHandlersEn.NET.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\obj\Debug\netcoreapp2.1\09EventHandlersEn.NET.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\obj\Debug\netcoreapp2.1\09EventHandlersEn.NET.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\obj\Debug\netcoreapp2.1\09EventHandlersEn.NET.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\09EventHandlersEn.NET\09EventHandlersEn.NET\obj\Debug\netcoreapp2.1\09EventHandlersEn.NET.pdb
