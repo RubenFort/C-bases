@@ -8,3 +8,4 @@ C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Ev
 C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.AssemblyInfo.cs
 C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.dll
 C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.csprojAssemblyReference.cache
