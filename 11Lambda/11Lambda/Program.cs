@@ -49,9 +49,16 @@ namespace _11Lambda
                 int res = potB(baseP, i);
                 Console.WriteLine($"{baseP} elevado a la {i} potencia = {res}");
             }
-
-            Console.ReadKey();
             #endregion
+
+            #region tuplas
+            Func<(int, int), (int, int)> invertir = c => (c.Item1 * -1, c.Item2 * -1);
+            var coordenadas = (-20, 50);
+            Console.WriteLine($"Coordendas invertidas {invertir(coordenadas)}");
+            Console.ReadKey();
+
+            #endregion
+
 
             Console.ReadKey();
         }
