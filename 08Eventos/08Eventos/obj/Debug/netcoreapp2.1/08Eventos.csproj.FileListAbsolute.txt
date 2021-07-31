@@ -1,0 +1,10 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\bin\Debug\netcoreapp2.1\08Eventos.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\bin\Debug\netcoreapp2.1\08Eventos.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\bin\Debug\netcoreapp2.1\08Eventos.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\bin\Debug\netcoreapp2.1\08Eventos.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\bin\Debug\netcoreapp2.1\08Eventos.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\08Eventos\08Eventos\obj\Debug\netcoreapp2.1\08Eventos.pdb
