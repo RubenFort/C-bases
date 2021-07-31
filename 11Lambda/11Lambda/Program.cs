@@ -41,7 +41,6 @@ namespace _11Lambda
             a = 10;
             Console.WriteLine($"Suma: {suma(2)}");
 
-
             Func<int, int, int> potB = (z, y) => (int)Math.Pow(z, y);
             int baseP = 5;
             for (int i = 1; i <= 3; i++)
@@ -56,9 +55,7 @@ namespace _11Lambda
             var coordenadas = (-20, 50);
             Console.WriteLine($"Coordendas invertidas {invertir(coordenadas)}");
             Console.ReadKey();
-
             #endregion
-
 
             Console.ReadKey();
         }
