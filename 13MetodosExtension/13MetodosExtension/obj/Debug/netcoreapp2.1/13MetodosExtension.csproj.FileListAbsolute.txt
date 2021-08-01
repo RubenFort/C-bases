@@ -1,0 +1,11 @@
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\obj\Debug\netcoreapp2.1\13MetodosExtension.csprojAssemblyReference.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\obj\Debug\netcoreapp2.1\13MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\obj\Debug\netcoreapp2.1\13MetodosExtension.AssemblyInfoInputs.cache
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\obj\Debug\netcoreapp2.1\13MetodosExtension.AssemblyInfo.cs
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\bin\Debug\netcoreapp2.1\13MetodosExtension.deps.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\bin\Debug\netcoreapp2.1\13MetodosExtension.runtimeconfig.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\bin\Debug\netcoreapp2.1\13MetodosExtension.runtimeconfig.dev.json
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\bin\Debug\netcoreapp2.1\13MetodosExtension.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\bin\Debug\netcoreapp2.1\13MetodosExtension.pdb
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\obj\Debug\netcoreapp2.1\13MetodosExtension.dll
+C:\Users\Crowley\Desktop\Cursos\Linkedin\C# esencial\CodigoPropio\13MetodosExtension\13MetodosExtension\obj\Debug\netcoreapp2.1\13MetodosExtension.pdb
